@@ -1,41 +1,42 @@
 # 🪪 EverAll · GitHub Organization
 
-Welcome to the **EverAll**  — a platform of powerful tools, scalable services, and innovative applications designed to empower both individuals and businesses.
+Welcome to **EverAll** — a platform of powerful tools, scalable services, and forward-thinking applications designed to empower individuals and businesses alike.
 
-> **Motto:** _Everything. For everyone. Always._
+> **Motto:** _Everything. For Everyone. Always._
 
 ---
 
 ## 📦 Core Projects
 
-| Project          | Description                                                           | Status            |
-| ---------------- | --------------------------------------------------------------------- | ----------------- |
-| [everall-bot]    | Our primary Discord bot – automation, monetization, and server tools. | 🟢 Active         |
-| [everall-api]    | Backend API for client-server operations.                             | 🟢 Active         |
-| [everall-web]    | Frontend (React) for EverAll services – dashboard, user portal, etc.  | 🟠 In Development |
-| [everall-mobile] | Mobile app (React Native + Expo) to manage subscriptions & assets     | 🔵 Planned        |
+| Projects           | Description                                                                 | Status            |
+| ----------------- | --------------------------------------------------------------------------- | ----------------- |
+| Bot | The official EverAll Discord bot — automate tasks, unlock features, and enhance your server experience. | 🟢 Active         |
+| API | The backbone of the EverAll ecosystem — reliable, secure API services powering our platform.             | 🟢 Active         |
+| Web | Web dashboard for managing your account, subscriptions, and platform tools. | 🟠 In Development |
+| Mobile | A mobile app to access your EverAll services on the go — streamlined and user-friendly.                 | 🔵 Planned        |
 
 ---
 
 ## 🌍 About EverAll
 
-EverAll is a modular platform that offers:
+EverAll is an all-in-one digital platform offering:
 
-- SaaS tools for creators, entrepreneurs, and online communities  
-- Secure infrastructure for asset management, billing, and access control  
-- A User-first interface for instant interaction, backed by robust APIs 
+- **Creator & Business Tools** — tailored solutions for communities, teams, and entrepreneurs  
+- **Secure Infrastructure** — manage access, subscriptions, and assets with confidence  
+- **Unified Experience** — a seamless interface across web, mobile, and Discord  
 
 ---
 
 ## ✨ Join the Vision
 
-We believe in open tools, transparent logic, and building for the long term.  
-If you're interested in contributing, using our platform, or partnering — get in touch:
+We believe in building accessible tools, transparent systems, and long-term value.
 
-- 🌐 [ever-all.us](https://ever-all.us)
-- 📧 [contact.everall@pm.me](mailto:contact.everall@pm.me)
+Interested in using EverAll or contributing to our mission?
+
+- 🌐 [ever-all.us](https://ever-all.us)  
+- 📧 [contact.everall@pm.me](mailto:contact.everall@pm.me)  
 - 🤖 [Join our Discord](https://discord.gg/pWpSpneeUe)
 
 ---
 
- _Made with ❤️, ⚙️, and 💡 by EverAll._
+_Made with ❤️, ⚙️, and 💡 by the EverAll team._
