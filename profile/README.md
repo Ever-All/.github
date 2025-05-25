@@ -1,4 +1,4 @@
-# 🪪 EverAll · GitHub Organization
+# ♾️ EverAll · Organization
 
 Welcome to **EverAll** — a platform of powerful tools, scalable services, and forward-thinking applications designed to empower individuals and businesses alike.
 
@@ -8,14 +8,15 @@ Welcome to **EverAll** — a platform of powerful tools, scalable services, and 
 
 ## 📦 Core Projects
 
-| Projects           | Description                                                                 | Status            |
-| ----------------- | --------------------------------------------------------------------------- | ----------------- |
-| Bot | The official EverAll Discord bot — automate tasks, unlock features, and enhance your server experience. | 🟢 Active         |
-| API | The backbone of the EverAll ecosystem — reliable, secure API services powering our platform.             | 🟢 Active         |
-| Web | Web dashboard for managing your account, subscriptions, and platform tools. | 🟠 In Development |
-| Mobile | A mobile app to access your EverAll services on the go — streamlined and user-friendly.                 | 🔵 Planned        |
+| Projects | Description | Status |
+|:--------:|:-----------:|:------:|
+| <div align="center">**Bot**</div> | <div align="center">The official EverAll Discord bot — automate tasks, unlock features, and enhance your server experience.</div> | <div align="center">🟢 Active</div> |
+| <div align="center">**API**</div> | <div align="center">The backbone of the EverAll ecosystem — reliable, secure API services powering our platform.</div> | <div align="center">🟢 Active</div> |
+| <div align="center">**Web**</div> | <div align="center">Web dashboard for managing your account, subscriptions, and platform tools.</div> | <div align="center">🟠 In Development</div> |
+| <div align="center">**Mobile**</div> | <div align="center">A mobile app to access your EverAll services on the go — streamlined and user-friendly.</div> | <div align="center">🔵 Planned</div> |
 
 ---
+
 
 ## 🌍 About EverAll
 
@@ -34,7 +35,7 @@ We believe in building accessible tools, transparent systems, and long-term valu
 Interested in using EverAll or contributing to our mission?
 
 - 🌐 [ever-all.us](https://ever-all.us)  
-- 📧 [contact.everall@pm.me](mailto:contact.everall@pm.me)  
+- 📧 [contact@ever-all.us](mailto:contact@ever-all.us)  
 - 🤖 [Join our Discord](https://discord.gg/pWpSpneeUe)
 
 ---
