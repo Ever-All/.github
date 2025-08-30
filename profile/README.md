@@ -1,43 +1,38 @@
-# ♾️ EverAll · Organization
+# ♾️ EverAll
 
-Welcome to **EverAll** — a platform of powerful tools, scalable services, and forward-thinking applications designed to empower individuals and businesses alike.
+**EverAll is EverEvolving.**
+
+We are shifting our focus toward **community-driven creativity**, **game development**, and **entertainment** — building not just projects, but a space where people can create, share, and grow together.
 
 > **Motto:** _Everything. For Everyone. Always._
 
 ---
 
-## 📦 Core Projects
+## 🌟 Our Vision
 
-| Projects | Description | Status |
-|:--------:|:-----------:|:------:|
-| <div align="center">**Bot**</div> | <div align="center">The official EverAll Discord bot — automate tasks, unlock features, and enhance your server experience.</div> | <div align="center">🟢 Active</div> |
-| <div align="center">**API**</div> | <div align="center">The backbone of the EverAll ecosystem — reliable, secure API services powering our platform.</div> | <div align="center">🟢 Active</div> |
-| <div align="center">**Web**</div> | <div align="center">Web dashboard for managing your account, subscriptions, and platform tools.</div> | <div align="center">🟠 In Development</div> |
-| <div align="center">**Mobile**</div> | <div align="center">A mobile app to access your EverAll services on the go — streamlined and user-friendly.</div> | <div align="center">🔵 Planned</div> |
+- **Community First** — everything we build is shaped by the people involved  
+- **Games & Creativity** — interactive experiences, development, and expression through play  
+- **Entertainment & Events** — streams, showcases, and moments that bring people together  
+- **Collaboration** — learning, teaching, and creating side by side  
 
 ---
 
+## 📌 Where We Are
 
-## 🌍 About EverAll
+This is the **start of a new direction**. Much of what we’re working toward is still in planning, but our mission is clear:  
 
-EverAll is an all-in-one digital platform offering:
-
-- **Creator & Business Tools** — tailored solutions for communities, teams, and entrepreneurs  
-- **Secure Infrastructure** — manage access, subscriptions, and assets with confidence  
-- **Unified Experience** — a seamless interface across web, mobile, and Discord  
+_To create a space where creativity and community come first._
 
 ---
 
-## ✨ Join the Vision
+## ✨ Join the Journey
 
-We believe in building accessible tools, transparent systems, and long-term value.
-
-Interested in using EverAll or contributing to our mission?
+If this vision excites you, we’d love to have you with us as we grow:  
 
 - 🌐 [ever-all.us](https://ever-all.us)  
 - 📧 [contact@ever-all.us](mailto:contact@ever-all.us)  
-- 🤖 [Join our Discord](https://discord.gg/pWpSpneeUe)
+- 🎮 [Join our Discord](https://discord.gg/pWpSpneeUe)  
 
 ---
 
-_Made with ❤️, ⚙️, and 💡 by the EverAll team._
+_Made with ❤️ and 🎮 by the EverAll team._
